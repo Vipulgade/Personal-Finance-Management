@@ -1,0 +1,7 @@
+.custom-navbar {
+    border-radius: 10px;
+    background: linear-gradient(45deg, #050eae, #311602, #0bd748);
+    color: rgb(58, 11, 224);
+    position: fixed;
+    z-index: 1;
+}
